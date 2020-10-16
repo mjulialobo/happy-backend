@@ -5,6 +5,7 @@
 
 <p> This application is divided in 3 REPOSITORIES. This one contains the backend of Happy, an application to find animal shelters. To find more information about this project, 
 please go to the frontend repository <a href="https://github.com/mjulialobo/happy"> HERE! </a> </p>
+<p> You can also find the mobile of the application <a href= "https://github.com/mjulialobo/happy-mobile"> HERE! </a>
 
 
 <h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/> How to use? </h2>
